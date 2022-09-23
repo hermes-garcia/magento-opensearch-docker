@@ -1,0 +1,1 @@
+# OpenSearch Docker compose for Magento 2.4+
